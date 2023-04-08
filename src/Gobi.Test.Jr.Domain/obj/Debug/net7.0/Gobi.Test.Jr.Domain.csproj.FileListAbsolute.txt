@@ -1,0 +1,12 @@
+C:\Users\guhhh\Desktop\Gobi.Test.Jr\src\Gobi.Test.Jr.Domain\bin\Debug\net7.0\Gobi.Test.Jr.Domain.deps.json
+C:\Users\guhhh\Desktop\Gobi.Test.Jr\src\Gobi.Test.Jr.Domain\bin\Debug\net7.0\Gobi.Test.Jr.Domain.dll
+C:\Users\guhhh\Desktop\Gobi.Test.Jr\src\Gobi.Test.Jr.Domain\bin\Debug\net7.0\Gobi.Test.Jr.Domain.pdb
+C:\Users\guhhh\Desktop\Gobi.Test.Jr\src\Gobi.Test.Jr.Domain\obj\Debug\net7.0\Gobi.Test.Jr.Domain.csproj.AssemblyReference.cache
+C:\Users\guhhh\Desktop\Gobi.Test.Jr\src\Gobi.Test.Jr.Domain\obj\Debug\net7.0\Gobi.Test.Jr.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guhhh\Desktop\Gobi.Test.Jr\src\Gobi.Test.Jr.Domain\obj\Debug\net7.0\Gobi.Test.Jr.Domain.AssemblyInfoInputs.cache
+C:\Users\guhhh\Desktop\Gobi.Test.Jr\src\Gobi.Test.Jr.Domain\obj\Debug\net7.0\Gobi.Test.Jr.Domain.AssemblyInfo.cs
+C:\Users\guhhh\Desktop\Gobi.Test.Jr\src\Gobi.Test.Jr.Domain\obj\Debug\net7.0\Gobi.Test.Jr.Domain.csproj.CoreCompileInputs.cache
+C:\Users\guhhh\Desktop\Gobi.Test.Jr\src\Gobi.Test.Jr.Domain\obj\Debug\net7.0\Gobi.Test.Jr.Domain.dll
+C:\Users\guhhh\Desktop\Gobi.Test.Jr\src\Gobi.Test.Jr.Domain\obj\Debug\net7.0\refint\Gobi.Test.Jr.Domain.dll
+C:\Users\guhhh\Desktop\Gobi.Test.Jr\src\Gobi.Test.Jr.Domain\obj\Debug\net7.0\Gobi.Test.Jr.Domain.pdb
+C:\Users\guhhh\Desktop\Gobi.Test.Jr\src\Gobi.Test.Jr.Domain\obj\Debug\net7.0\ref\Gobi.Test.Jr.Domain.dll

@@ -1,0 +1,48 @@
+@model Gobi.Test.Jr.Domain.TodoItem
+
+@{
+    ViewData["Title"] = "Editar Item";
+  
+}
+
+<h1>Editar Tarefa</h1>
+
+<form asp-action="EditItem" method="post">
+    @Html.AntiForgeryToken()
+
+    <div class="form-group">
+        <label for="finalizado">Finalizado:</label>
+     <select id="finalizado" name="completed" class="form-control">
+  
+   
+
+    @if (Model.Completed)
+    {
+    <option value="true" >
+        Sim
+    </option>
+    <option value="false" >
+        Não
+    </option>
+    }else{
+    <option value="false">
+        Não
+    </option>
+        <option value="true">
+        Sim
+    </option>
+    }
+   
+</select>
+        </select>
+    </div>
+
+    <div class="form-group">
+        <label for="tarefa">Tarefa:</label>
+        <input type="text" id="tarefa" name="description" class="form-control" value="@Model.Description" />
+    </div>
+
+    <input type="hidden" name="id" value="@Model.Id" />
+    <button type="submit" class="btn btn-primary mt-4">Salvar</button>
+    <a asp-action="Index" class="btn btn-secondary mt-4">Cancelar</a>
+</form>
